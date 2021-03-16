@@ -1,0 +1,1 @@
+const BACKEND_URL = "https://playmango.kr/api"; 
